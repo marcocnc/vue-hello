@@ -10,4 +10,4 @@ createApp({
             message: 'Hello world'
         }
     }
-})
+}).mount('#app')
